@@ -2,12 +2,11 @@
   "name": "parsnip",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "parsnip.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "entrypoint": "parsnip.js"
+  "license": "ISC"
 }
